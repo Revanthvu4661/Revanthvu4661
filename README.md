@@ -64,7 +64,7 @@
 | Skill Area | Status |
 |---|---|
 | 📊 Data Analytics (EDA, Visualisation, Cleaning) | ✅ Comfortable & Growing |
-| 🐍 Python for Data Science | ✅ Solid Foundation |
+| 🐍 Python for Data Science | 📖 Actively Learning |
 | 🤖 Machine Learning Fundamentals | 📖 Actively Learning |
 | 🧠 Deep Learning (TensorFlow / PyTorch) | 📖 Actively Learning |
 | 🗃️ SQL & Databases | 📖 Exploring |
